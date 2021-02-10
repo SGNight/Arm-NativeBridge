@@ -23,7 +23,7 @@ Houdini_6 series can be used in android 7.1 as well and the Houdini_8 series can
 
 ## Houdini_6 series
 ```
- http://dl.android-x86.org/houdini/6_x/houdini.sfs
+ [http://dl.android-x86.org/houdini/6_x/houdini.sfs]
  http://dl.android-x86.org/houdini/6_y/houdini.sfs
  http://dl.android-x86.org/houdini/6_z/houdini.sfs
 ```
